@@ -1,18 +1,15 @@
 # Spil-projekt
 
-Vi vil gerne lave et 2D RPG spil med programmet Unity. 
 
-Det skal være en mere åben verden, hvor vores karakter frit kan udforske området, bekæmpe forskellige monstrer og samle objekter ind. 
+Vi har tænkt på at lave et spil til børn. Vi har lavet et spørgeskema som vi skal sende ud til nogle forældre med børn i alderen 4-7 år. På den måde kan vi blive inspireret til, hvilken type spil vi skal lave. 
 
+Vi har tænkt på at lave vores spil i Unity. Vi vil arbejde sammen igennem hele projektet, så vi begge forstår det, der bliver lavet.
 
-Vi skal have sat grundspillet op hurtigt, så vi kan komme godt i gang.
-
-Vi vil lave det meste sammen i skolen, og snakke sammen over Discord, når vi arbejder hjemme. Vi vil derfor hjælpe hinanden, så vi begge forstår det hele.
-
+Vi går i gang med programmeringen så snart vi har fået svar i vores spørgeskema.
 _________________________
 
 LOGBOG:
 
-30-10-2020:
+17. november, 2020:
 
-I dag er der blev undersøgt lidt omkring Unity, og 2d spil.
+Vi har ikke fået lavet på spillet endnu, da vi først lige er blevet færdige med vores spørgeskema, hvor vi skal finde ud af, hvilket spil vi skal lave.
