@@ -1,7 +1,7 @@
 # Spil-projekt
 
 
-Vi har tænkt på at lave et spil til børn. Vi har lavet et spørgeskema som vi skal sende ud til nogle forældre med børn i alderen 4-7 år. På den måde kan vi blive inspireret til, hvilken type spil vi skal lave. 
+Vi har tænkt på at lave et spil til børn. Vi fik sendt et spørgeskema ud til forældrene, der har børn i alderes 4-7 år. Vi kunne se på spørgeskemaet, at de fleste børn gerne ville spille spil, hvor de lærer noget. Derfor bliver vores spil et lærespil.
 
 Vi har tænkt på at lave vores spil i Unity. Vi vil arbejde sammen igennem hele projektet, så vi begge forstår det, der bliver lavet.
 
